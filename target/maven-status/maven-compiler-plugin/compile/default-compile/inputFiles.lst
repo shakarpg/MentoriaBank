@@ -1,0 +1,8 @@
+/app/src/main/java/com/mentoriabank/MentoriaBankApplication.java
+/app/src/main/java/com/mentoriabank/config/SwaggerConfig.java
+/app/src/main/java/com/mentoriabank/controller/UserController.java
+/app/src/main/java/com/mentoriabank/model/Badge.java
+/app/src/main/java/com/mentoriabank/model/Goal.java
+/app/src/main/java/com/mentoriabank/model/User.java
+/app/src/main/java/com/mentoriabank/repository/UserRepository.java
+/app/src/main/java/com/mentoriabank/service/UserService.java
